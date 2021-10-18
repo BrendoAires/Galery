@@ -1,4 +1,4 @@
 # Galeryy
 Criando uma galeria com Sass
 
-galeryy.netlify.app
+http://galeryy.netlify.app
