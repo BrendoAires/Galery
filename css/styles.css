@@ -34,7 +34,7 @@ body ul {
   margin: 0 auto;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 425px) {
   .header {
     padding: 1.1rem;
   }
@@ -58,7 +58,7 @@ body ul {
           justify-content: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 425px) {
   .header-navbar ul {
     display: none;
   }
@@ -91,7 +91,7 @@ body ul {
   height: 100%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 425px) {
   .header-social-media ul {
     display: none;
   }
@@ -126,7 +126,7 @@ body ul {
   padding: 0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 425px) {
   .gallery {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -155,7 +155,7 @@ body ul {
   color: #FFF;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 425px) {
   .gallery-card {
     width: 90%;
     margin-bottom: 6%;
